@@ -1,0 +1,715 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.5)  22 JAN 2023 09:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Methods.tex
+(./Methods.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count194
+\lst@gtempboxa=\box50
+\lst@token=\toks19
+\lst@length=\count195
+\lst@currlwidth=\dimen141
+\lst@column=\count196
+\lst@pos=\count197
+\lst@lostspace=\dimen142
+\lst@width=\dimen143
+\lst@newlines=\count198
+\lst@lineno=\count199
+\lst@maxwidth=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count266
+\lst@skipnumbers=\count267
+\lst@framebox=\box51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen145
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen146
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count268
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count269
+\leftroot@=\count270
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count271
+\DOTSCASE@=\count272
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen147
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count273
+\c@MaxMatrixCols=\count274
+\dotsspace@=\muskip16
+\c@parentequation=\count275
+\dspbrk@lvl=\count276
+\tag@help=\toks21
+\row@=\count277
+\column@=\count278
+\maxfields@=\count279
+\andhelp@=\toks22
+\eqnshift@=\dimen148
+\alignsep@=\dimen149
+\tagshift@=\dimen150
+\tagwidth@=\dimen151
+\totwidth@=\dimen152
+\lineht@=\dimen153
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip52
+\multirow@cntb=\count280
+\multirow@dima=\skip53
+\bigstrutjot=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box54
+\beforetitleunit=\skip54
+\aftertitleunit=\skip55
+\ttl@plus=\dimen155
+\ttl@minus=\dimen156
+\ttl@toksa=\toks25
+\titlewidth=\dimen157
+\titlewidthlast=\dimen158
+\titlewidthfirst=\dimen159
+)
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count281
+\l__pdf_internal_box=\box55
+))
+Package: l3keys2e 2022-01-12 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count282
+\l__lipsum_a_int=\count283
+\l__lipsum_b_int=\count284
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks26
+\thm@bodyfont=\toks27
+\thm@headfont=\toks28
+\thm@notefont=\toks29
+\thm@headpunct=\toks30
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks31
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen160
+\captionmargin@=\dimen161
+\captionwidth=\dimen162
+\caption@tempdima=\dimen163
+\caption@indent=\dimen164
+\caption@parindent=\dimen165
+\caption@hangindent=\dimen166
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count285
+\c@continuedfloat=\count286
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count287
+\c@subtable=\count288
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip59
+\thanksmargin=\skip60
+\droptitle=\skip61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count289
+\c@Blindtext=\count290
+\c@blind@countparstart=\count291
+\blind@countxx=\count292
+\blindtext@numBlindtext=\count293
+\blind@countyy=\count294
+\c@blindlist=\count295
+\c@blindlistlevel=\count296
+\c@blindlist@level=\count297
+\blind@listitem=\count298
+\c@blind@listcount=\count299
+\c@blind@levelcount=\count300
+\blind@mathformula=\count301
+\blind@Mathformula=\count302
+\c@blind@randomcount=\count303
+\c@blind@randommax=\count304
+\c@blind@pangramcount=\count305
+\c@blind@pangrammax=\count306
+)
+\c@definition=\count307
+\c@theorem=\count308
+\c@corollary=\count309
+\c@lemma=\count310
+\c@proposition=\count311
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 31
+.
+
+(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) (./Methods.aux)
+\openout1 = `Methods.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen167
+\scratchbox=\box56
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen168
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks33
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count318
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+3.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+3.
+
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+33.
+
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+33.
+
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 33.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 33.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 33.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./Methods.toc
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 3.
+)
+\tf@toc=\write3
+\openout3 = `Methods.toc'.
+
+ [2
+
+]
+Chapter 1.
+[3
+
+]
+Chapter 2.
+[4
+
+] [5]
+<./square.png, id=28, 408.52625pt x 415.5525pt>
+File: ./square.png Graphic file (type png)
+<use ./square.png>
+Package pdftex.def Info: ./square.png  used on input line 121.
+(pdftex.def)             Requested size: 90.0pt x 91.5423pt.
+<./projection.png, id=29, 319.1925pt x 331.2375pt>
+File: ./projection.png Graphic file (type png)
+<use ./projection.png>
+Package pdftex.def Info: ./projection.png  used on input line 141.
+(pdftex.def)             Requested size: 90.0pt x 93.3928pt.
+ [6 <./square.png>] [7 <./projection.png (PNG copy)>] [8]
+<./kernelpair.png, id=42, 617.30624pt x 262.73157pt>
+File: ./kernelpair.png Graphic file (type png)
+<use ./kernelpair.png>
+Package pdftex.def Info: ./kernelpair.png  used on input line 197.
+(pdftex.def)             Requested size: 180.0pt x 76.60712pt.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 2
+02.
+
+(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [9 <./kernelpair.png (PNG copy)>]
+<./dp.png, id=47, 436.63126pt x 185.94469pt>
+File: ./dp.png Graphic file (type png)
+<use ./dp.png>
+Package pdftex.def Info: ./dp.png  used on input line 236.
+(pdftex.def)             Requested size: 108.0011pt x 45.99236pt.
+<./compdiagram.png, id=48, 243.15843pt x 199.49532pt>
+File: ./compdiagram.png Graphic file (type png)
+<use ./compdiagram.png>
+Package pdftex.def Info: ./compdiagram.png  used on input line 240.
+(pdftex.def)             Requested size: 64.79736pt x 53.16127pt.
+
+[10 <./dp.png (PNG copy)> <./compdiagram.png (PNG copy)>]
+<./coequalizer.png, id=52, 434.37282pt x 198.7425pt>
+File: ./coequalizer.png Graphic file (type png)
+<use ./coequalizer.png>
+Package pdftex.def Info: ./coequalizer.png  used on input line 248.
+(pdftex.def)             Requested size: 126.0022pt x 57.649pt.
+<./proj.png, id=53, 471.26062pt x 92.59593pt>
+File: ./proj.png Graphic file (type png)
+<use ./proj.png>
+Package pdftex.def Info: ./proj.png  used on input line 254.
+(pdftex.def)             Requested size: 108.0011pt x 21.2203pt.
+<./quad.png, id=54, 443.40656pt x 202.50656pt>
+File: ./quad.png Graphic file (type png)
+<use ./quad.png>
+Package pdftex.def Info: ./quad.png  used on input line 258.
+(pdftex.def)             Requested size: 108.0011pt x 49.32253pt.
+<./equalizer.png, id=55, 632.3625pt x 207.77625pt>
+File: ./equalizer.png Graphic file (type png)
+<use ./equalizer.png>
+Package pdftex.def Info: ./equalizer.png  used on input line 262.
+(pdftex.def)             Requested size: 161.9989pt x 53.22794pt.
+ [11 <./coequalizer.png (PNG copy)> <./proj.png (PNG copy)> <./quad.png (PNG co
+py)> <./equalizer.png (PNG copy)>] [12] [13] [14] [15] [16]
+Overfull \hbox (42.6006pt too wide) in paragraph at lines 477--478
+\OMS/lmsy/m/n/10.95 f\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 x; y\OT1/lmr/m/n/1
+0.95 ) : \OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 g\OT1/lmr
+/m/n/10.95 (\OML/lmm/m/it/10.95 x\OT1/lmr/m/n/10.95 )) =[] \OML/lmm/m/it/10.95 
+f\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 g\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.
+95 y\OT1/lmr/m/n/10.95 ))\OMS/lmsy/m/n/10.95 g$\T1/lmr/m/n/10.95 . Con-sider on
+ the other hand, $\OML/lmm/m/it/10.95 Part[]\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/1
+0.95 g\OT1/lmr/m/n/10.95 )(\OML/lmm/m/it/10.95 Part[]\OT1/lmr/m/n/10.95 (\OML/l
+mm/m/it/10.95 f\OT1/lmr/m/n/10.95 )(\OML/lmm/m/it/10.95 P\OT1/lmr/m/n/10.95 ))$
+
+ []
+
+
+Overfull \hbox (6.44992pt too wide) in paragraph at lines 477--478
+\T1/lmr/m/n/10.95 then we can ex-pand $\OML/lmm/m/it/10.95 Part[]\OT1/lmr/m/n/1
+0.95 (\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 )(\OML/lmm/m/it/10.95 P\OT1/lmr/m
+/n/10.95 )$ \T1/lmr/m/n/10.95 in this ex-pres-sion to get $\OML/lmm/m/it/10.95 
+Part[]\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 g\OT1/lmr/m/n/10.95 )(\OMS/lmsy/m
+/n/10.95 f\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 x; y\OT1/lmr/m/n/10.95 ) :
+ []
+
+[17] [18] [19] [20]
+<./quotcomp.png, id=90, 487.06969pt x 333.49594pt>
+File: ./quotcomp.png Graphic file (type png)
+<use ./quotcomp.png>
+Package pdftex.def Info: ./quotcomp.png  used on input line 581.
+(pdftex.def)             Requested size: 143.9978pt x 98.59416pt.
+ [21 <./quotcomp.png (PNG copy)>] [22]
+<./cong.png, id=97, 854.19125pt x 541.02126pt>
+File: ./cong.png Graphic file (type png)
+<use ./cong.png>
+Package pdftex.def Info: ./cong.png  used on input line 663.
+(pdftex.def)             Requested size: 71.9989pt x 45.59407pt.
+<./conf.png, id=99, 1817.79124pt x 637.38126pt>
+File: ./conf.png Graphic file (type png)
+<use ./conf.png>
+Package pdftex.def Info: ./conf.png  used on input line 669.
+(pdftex.def)             Requested size: 144.00055pt x 50.48581pt.
+ [23 <./cong.png> <./conf.png>] [24] [25] [26] [27]
+Overfull \hbox (1.14627pt too wide) in paragraph at lines 845--846
+\T1/lmr/m/n/10.95 Plug-ging these val-ues in form $\OT1/lmr/m/n/10.95 (\OML/lmm
+/m/it/10.95 n; m\OT1/lmr/m/n/10.95 )$ \T1/lmr/m/n/10.95 yeilds that $\OML/lmm/m
+/it/10.95 o\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (\OML/lm
+m/m/it/10.95 x\OT1/lmr/m/n/10.95 )) = \OML/lmm/m/it/10.95 g\OT1/lmr/m/n/10.95 (
+\OML/lmm/m/it/10.95 a\OT1/lmr/m/n/10.95 )$ \T1/lmr/m/n/10.95 and $\OML/lmm/m/it
+/10.95 o\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 f\OT1/lmr/m/n/10.95 (\OML/lmm/m
+/it/10.95 y\OT1/lmr/m/n/10.95 )) =
+ []
+
+<./rel.png, id=118, 299.61937pt x 311.66437pt>
+File: ./rel.png Graphic file (type png)
+<use ./rel.png>
+Package pdftex.def Info: ./rel.png  used on input line 847.
+(pdftex.def)             Requested size: 71.9989pt x 74.89133pt.
+[28 <./rel.png (PNG copy)>]
+<./setoid.png, id=122, 298.86656pt x 307.90031pt>
+File: ./setoid.png Graphic file (type png)
+<use ./setoid.png>
+Package pdftex.def Info: ./setoid.png  used on input line 860.
+(pdftex.def)             Requested size: 71.9989pt x 74.17477pt.
+<./composite.png, id=123, 324.46219pt x 524.71031pt>
+File: ./composite.png Graphic file (type png)
+<use ./composite.png>
+Package pdftex.def Info: ./composite.png  used on input line 871.
+(pdftex.def)             Requested size: 71.9989pt x 116.42941pt.
+ [29 <./setoid.png (PNG copy)> <./composite.png (PNG copy)>] [30] [31] [32]
+Overfull \hbox (17.0632pt too wide) in paragraph at lines 981--982
+\T1/lmr/m/n/10.95 dataflow re-la-tions are dual mech-a-nisms for con-struct-ing
+ mor-phisms in $\OML/lmm/m/it/10.95 Setoids[]$\T1/lmr/m/n/10.95 . 
+ []
+
+[33] [34] [35]
+Chapter 3.
+[36
+
+] [37] [38] [39] [40] [41]
+<./hom.png, id=165, 299.61937pt x 320.69812pt>
+File: ./hom.png Graphic file (type png)
+<use ./hom.png>
+Package pdftex.def Info: ./hom.png  used on input line 1224.
+(pdftex.def)             Requested size: 90.0pt x 96.3276pt.
+
+Overfull \hbox (0.32008pt too wide) in paragraph at lines 1237--1238
+\T1/lmr/bx/n/10.95 Definition 3.0.3. \T1/lmr/m/n/10.95 let $\OML/lmm/m/it/10.95
+ C$ \T1/lmr/m/n/10.95 be the cat-e-gory of al-ge-bras with sig-na-ture $\OT1/lm
+r/m/n/10.95 (\OML/lmm/m/it/10.95 n[]; :::n[]\OT1/lmr/m/n/10.95 )$\T1/lmr/m/n/10
+.95 .
+ []
+
+[42 <./hom.png (PNG copy)>]
+Overfull \hbox (15.64142pt too wide) in paragraph at lines 1261--1262
+[]\T1/lmr/m/n/10.95 Then this cor-re-spon-dence be-tween con-gru-ences and com-
+po-nen-t-wise dataflow
+ []
+
+[43] [44]
+<./flowpreserve.png, id=177, 357.58594pt x 307.1475pt>
+File: ./flowpreserve.png Graphic file (type png)
+<use ./flowpreserve.png>
+Package pdftex.def Info: ./flowpreserve.png  used on input line 1298.
+(pdftex.def)             Requested size: 86.40198pt x 74.21368pt.
+
+Overfull \hbox (34.65915pt too wide) in paragraph at lines 1304--1305
+[]\T1/lmr/m/n/10.95 Then this means that for any dataflow re-la-tion $\OT1/lmr/
+m/n/10.95 (\OML/lmm/m/it/10.95 C[]; C\OT1/lmr/m/n/10.95 )$\T1/lmr/m/n/10.95 , i
+ts im-age $\OT1/lmr/m/n/10.95 (\OML/lmm/m/it/10.95 f[]\OT1/lmr/m/n/10.95 (\OML/
+lmm/m/it/10.95 C[]\OT1/lmr/m/n/10.95 )\OML/lmm/m/it/10.95 ; f\OT1/lmr/m/n/10.95
+ (\OML/lmm/m/it/10.95 C\OT1/lmr/m/n/10.95 ))$
+ []
+
+<./flowreflect.png, id=178, 456.95718pt x 308.65312pt>
+File: ./flowreflect.png Graphic file (type png)
+<use ./flowreflect.png>
+Package pdftex.def Info: ./flowreflect.png  used on input line 1310.
+(pdftex.def)             Requested size: 100.79956pt x 68.08286pt.
+[45 <./flowpreserve.png (PNG copy)> <./flowreflect.png (PNG copy)>] [46]
+Overfull \hbox (10.77379pt too wide) in paragraph at lines 1365--1366
+[]\T1/lmr/m/n/10.95 As an ex-am-ple, let $\OML/lmm/m/it/10.95 S$ \T1/lmr/m/n/10
+.95 be the class of $\OT1/lmr/m/n/10.95 3\OML/lmm/m/it/10.95 x\OT1/lmr/m/n/10.9
+5 3$ \T1/lmr/m/n/10.95 ma-tri-ces. Then $\OMS/lmsy/m/n/10.95 f\OT1/lmr/m/n/10.9
+5 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 0)\OML/lmm/m/it/10.95 ; \OT1/lmr/m
+/n/10.95 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 1)\OML/lmm/m/it/10.95 ; \OT
+1/lmr/m/n/10.95 (0\OML/lmm/m/it/10.95 ; \OT1/lmr/m/n/10.95 2)\OMS/lmsy/m/n/10.9
+5 g$
+ []
+
+[47] [48]
+Chapter 4.
+
+Overfull \hbox (9.78627pt too wide) in paragraph at lines 1395--1424
+\T1/lmr/m/n/10.95 to the dual of the logic of sub-sets. arXiv.Org. https://arxi
+v.org/abs/0902.1950 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Overfull \hbox (77.37152pt too wide) in paragraph at lines 1395--1424
+\T1/lmr/m/n/10.95 nite par-ti-tion lat-tice. Al-ge-bra Uni-ver-salis, 10(1), 74
+^^U95. https://doi.org/10.1007/bf02482893 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1395--1424
+
+ []
+
+[49
+
+] [50] (./Methods.aux) ) 
+Here is how much of TeX's memory you used:
+ 7125 strings out of 480247
+ 117130 string characters out of 5896151
+ 486910 words of memory out of 5000000
+ 24956 multiletter control sequences out of 15000+600000
+ 533232 words of font info for 67 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 68i,8n,77p,938b,478s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/us
+r/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm
+/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texm
+f/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/t
+ype1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi6.pfb></u
+sr/share/texmf/fonts/type1/public/lm/lmmi8.pfb></usr/share/texmf/fonts/type1/pu
+blic/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fon
+ts/type1/public/lm/lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pf
+b></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/typ
+e1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/symbols/msbm10.pfb>
+Output written on Methods.pdf (50 pages, 822114 bytes).
+PDF statistics:
+ 274 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
